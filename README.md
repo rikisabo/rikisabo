@@ -1,4 +1,4 @@
-## Hi 👋 I'm Rivka Sabo  
+## Hi, 👋 I'm Rivka Sabo  
 Embedded & Full-Stack Developer  
 
 🔍 About Me  
