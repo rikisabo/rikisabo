@@ -14,7 +14,8 @@ Embedded & Full-Stack Developer
 
 ### 🧠 Maximum-Clique Search Engine (C++)  
 **Next Silicon – KamaTech Bootcamp | 2025**  
-- Implemented the **LazyMC algorithm** for maximum-clique detection in a modular C++ system, based on the academic paper *“Less Is More”*  
+- Implemented the **LazyMC algorithm** for maximum-clique detection in a modular C++ system,
+-  based on the academic paper *“Less Is More”*  
 - Applied performance optimizations and algorithmic improvements  
 - Developed **GoogleTest** unit tests and **Google Benchmark** performance framework  
 - Built and managed the project using **CMake**  
