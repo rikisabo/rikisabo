@@ -10,6 +10,36 @@ Embedded & Full-Stack Developer
 💡 Strong logical thinking with hands-on practice in data structures and algorithms  
 💼 Looking for junior opportunities in Embedded Systems or Full-Stack development
 
+## 📌 Projects
+
+### 🧠 Maximum-Clique Search Engine (C++)  
+**Next Silicon – KamaTech Bootcamp | 2025**  
+- Implemented the **LazyMC algorithm** for maximum-clique detection in a modular C++ system, based on the academic paper *“Less Is More”*  
+- Applied performance optimizations and algorithmic improvements  
+- Developed **GoogleTest** unit tests and **Google Benchmark** performance framework  
+- Built and managed the project using **CMake**  
+- Performed performance analysis and optimization with **Intel VTune**  
+- Implemented **multithreading using OpenMP**
+
+---
+
+### 🍕 Web API Infrastructure for Pizzeria Management  
+**ASP.NET Core (.NET 8) | 2025**  
+- Developed a **RESTful Web API** using ASP.NET Core  
+- Implemented **authentication and authorization** with JWT Bearer  
+- Built custom **middleware**, centralized exception handling, and asynchronous endpoints  
+- Applied **Dependency Injection** for clean architecture and testability  
+- Integrated client-server communication using the **Fetch API**
+
+---
+
+### 🖼️ Image Processing & Print System (C#)  
+**MVC & Entity Framework Core | 2025**  
+- Built a **modular image management and printing system** using the MVC pattern  
+- Designed clear separation between UI, business logic, and data access layers  
+- Implemented data persistence with **Entity Framework Core**  
+- Improved performance and maintainability through efficient data access and **Dependency Injection**
+
 ## 🧰 Languages & Tools
 
 <p align="left">
