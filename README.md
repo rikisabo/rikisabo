@@ -5,7 +5,7 @@
 
 💼 Currently working at AudioCodes as a Python Automation Developer.
 
-🐧 Contributing to open-source Linux (V4L2).
+🐧 Contributing to open-source Linux (V4L2) – Check out my [Linux Media Patch](https://patchwork.linuxtv.org/project/linux-media/patch/20260304104421.19237-4-s0533160580@gmail.com/)
 
 🧰 Background in operating systems, algorithms, and performance optimization.
 
