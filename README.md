@@ -1,6 +1,9 @@
+## Hi, 👋 I'm Rivka Sabo  
+A Software Developer currently specializing in Python Automation at AudioCodes, with a strong background in Embedded Systems and Full-Stack development.
+
 🔍 About Me 
 
-### 💼 Currently working at AudioCodes as a Python Automation Developer.
+💼 Currently working at AudioCodes as a Python Automation Developer.
 
 🐧 Contributing to open-source Linux (V4L2).
 
