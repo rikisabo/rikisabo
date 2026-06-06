@@ -1,4 +1,6 @@
-🔍 About Me * 💼 Currently working at AudioCodes as a Python Automation Developer.
+🔍 About Me 
+
+### 💼 Currently working at AudioCodes as a Python Automation Developer.
 
 🐧 Contributing to open-source Linux (V4L2).
 
